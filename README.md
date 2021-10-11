@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### 흠... 글쎄요..
-
 
 #### Github Status
 
@@ -26,3 +24,10 @@ Here are some ideas to get you started:
 #### Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonster&layout=compact)](https://github.com/patrickmonster)
+
+
+# 아마 당신이 이 페이지를 본것은 저에대한 호기심 일것입니다.
+저는 그냥 단순히 개발자이며, 모든 사람들이 동등한 대우를 받기 위해
+조금더 편리하고 유용한 기술들을 개발하지만,
+
+생각이 조금은 바뀔지도...모르겠네요.
