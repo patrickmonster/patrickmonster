@@ -26,3 +26,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonster&layout=compact)](https://github.com/patrickmonster)
 
 응애 아기개발자
+
+
+## 운용중인 서비스
+[모비노기.net](https://mobinogi.net/)
+
+[방송알리미](https://orefinger.click/)
+
+
+2025-12 ~ 구직중
+상도동 거주중
