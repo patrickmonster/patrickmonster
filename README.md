@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 2025-12 ~ 구직중
-상도동 거주중
+상도동 거주중 (7호선)
